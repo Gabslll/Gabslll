@@ -30,4 +30,4 @@
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabslll&show_icons=true&theme=dark)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Gabslll&theme=dark&border_radius=5)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Gabslll)](https://git.io/streak-stats)
