@@ -7,7 +7,6 @@
 ### **🧐 About:**
 
 ```diff
-@@I'm a lover of technology and art@@
 
 + Living in Piracicaba-SP
 - 21 years old (that's what they say...)
