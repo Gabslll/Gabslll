@@ -1,7 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Tagala+Font+Family&size=30&duration=4500&pause=1000&color=11F712&center=true&vCenter=true&width=450&height=65&lines=Hello+World!+I'm+Gabriel+;I'm+studying+FrontEnd;Be+Welcome+!)](https://git.io/typing-svg)
 
 ## Conect with me
-[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=ff91a4)](https://www.instagram.com/________________gabs/)
 <a href = "mailto:gabrielrammus42@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ### **🧐 About:**
